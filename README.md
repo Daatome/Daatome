@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daatome i´m an student at Universidad Autónoma Metropolitana 
-- 👀 I’m interested in web development 
+- 👀 I’m interested in software development 
 - 📫 danielatonal8@gmail.com 
 -  Member of IGEM UAM
 
