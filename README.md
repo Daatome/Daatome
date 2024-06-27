@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Daatome i´m an student at Universidad Autónoma Metropolitana 
-- 👀 I’m interested in software development 
+- 👋 Hi, I’m @Daatome i´m  graduated from Universidad Autónoma Metropolitana and currently working as an Appian developer but still practicing with angular and Spring
+- 👀 I’m interested in software development and i´m always learning new concepts to keep fresh my knowledge 
 - 📫 danielatonal8@gmail.com 
 -  Member of IGEM UAM
 
